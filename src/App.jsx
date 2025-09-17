@@ -5,8 +5,7 @@ import Books2 from './components/Books2'
 const App = () => {
   return (
     <div>
-      <Buks/>
-      <Books2/>
+     
     </div>
   )
 }
